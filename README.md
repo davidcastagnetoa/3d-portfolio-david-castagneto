@@ -7,6 +7,7 @@ All credits for this great job to JS Mastery. Please visit his channel and his w
 #####Author JS Mastery
 [JS Mastery's Youtube Channel](https://www.youtube.com/watch?v=0fYi8SGA20k)
 [JS Mastery's website](https://jsmastery.pro)
+[Tutorial](https://youtu.be/0fYi8SGA20k?t=6294)
 
 Technologies used
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
@@ -18,3 +19,4 @@ Tecniques implemented
 - Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 - Sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+
