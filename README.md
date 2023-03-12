@@ -1,4 +1,4 @@
-#3D Portfolio Website with Three.js and React.js
+# 3D Portfolio Website with Three.js and React.js
 
 ## Introduction
 This websites use 3D graphics and animations to bring their content to life.
