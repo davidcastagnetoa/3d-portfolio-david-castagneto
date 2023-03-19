@@ -1,13 +1,13 @@
-# 3D Portfolio Website with Three.js and React.js
+#3D Portfolio Website with Three.js and React.js
 
 ## Introduction
 This websites use 3D graphics and animations to bring their content to life.
 All credits for this great job to JS Mastery. Please visit his channel and his website for more content.
 
-#### Author JS Mastery Links
-- [JS Mastery's Youtube Channel](https://www.youtube.com/watch?v=0fYi8SGA20k)
-- [JS Mastery's website](https://jsmastery.pro)
-- [Tutorial](https://youtu.be/0fYi8SGA20k?t=6294)
+#####Author JS Mastery
+[JS Mastery's Youtube Channel](https://www.youtube.com/watch?v=0fYi8SGA20k)
+[JS Mastery's website](https://jsmastery.pro)
+[Tutorial](https://youtu.be/0fYi8SGA20k?t=6294)
 
 Technologies used
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
