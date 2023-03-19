@@ -7,7 +7,7 @@ All credits for this great job to JS Mastery. Please visit his channel and his w
 #####Author JS Mastery
 [JS Mastery's Youtube Channel](https://www.youtube.com/watch?v=0fYi8SGA20k)
 [JS Mastery's website](https://jsmastery.pro)
-[Tutorial](https://youtu.be/0fYi8SGA20k?t=6294)
+[Tutorial](https://youtu.be/0fYi8SGA20k?t=7989)
 
 Technologies used
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
